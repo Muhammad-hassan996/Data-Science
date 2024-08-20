@@ -1,6 +1,6 @@
 # Data-Science Course 
-Python(oop<br>data structure<br>loops<br>condition)<br>
-Libraries(Pandas<br>Numpy<br>matplotlib<br>seaborn<br>scikit-Learn<br>TensorFlow)<br>
+Python(oop,data structure,loops,condition)<br>
+Libraries(Pandas,Numpy,matplotlib,seaborn,scikit-Learn,TensorFlow)<br>
 # Machine Learning
 
 Linear Regression<br> 
