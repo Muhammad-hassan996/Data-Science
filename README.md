@@ -1,3 +1,12 @@
 # Data-Science
-Data Science Projects Using Python 
-Macihne Learning Using Jupyter Notebook
+Python(oop,data structure,loops,condition)
+Libraries(Pandas,Numpy,matplotlib,seaborn,scikit-Learn,TensorFlow)
+# Machine Learning
+Linear Regression
+Logistic Regression
+Knn
+Decision Tree
+Naive Byes
+Mean
+
+
