@@ -22,3 +22,9 @@
 - **Decision Tree:** Tree-based models for classification and regression.
 - **Naive Bayes:** Probabilistic classification, assumptions of independence.
 - **Mean and Variance:** Fundamental concepts in statistical analysis.
+### Unsupervised Learning Algorithms
+- **K-Means Clustering:** Partitioning data into k distinct clusters, centroids, and SSE.
+- **Hierarchical Clustering:** Creating a hierarchy of clusters, dendrograms, agglomerative and divisive methods.
+- **DBSCAN (Density-Based Spatial Clustering of Applications with Noise):** Clustering based on density, identifying noise points.
+- **Principal Component Analysis (PCA):** Dimensionality reduction, feature extraction, and visualization of high-dimensional data.
+- **Association Rule Learning:** Market basket analysis, Apriori algorithm, and discovering patterns in data.
